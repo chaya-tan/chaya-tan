@@ -1,4 +1,4 @@
-![I'm Chayatan. Nice to meet  you](https://imgur.com/RRqGcgj.png "Greeting")
+![My talk at function programming meetup #1 in Bangkok, Thailand](https://imgur.com/tThOLuM.png "me")
 
 I'm a co-founder of multiple businesses. From online shops, coffee shop, to a cattery (yes! seriously!). But, as I love coding from the day I can't even ship code by myself until now that I do everything by myself from coding to marketing. Coding still be a big part in my life. I code for my businesses that I partnered with.
 
