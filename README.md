@@ -6,7 +6,6 @@ I'm a co-founder of multiple businesses.
 - [Casa Blanca Dusit](https://casablancabkk.com/), a coffee shop and hostel 
 - [Goofy's Nail](https://www.instagram.com/goofynails.bkk/), a nail salon 
 - [Gato Blanco](https://www.ragdollthailand.com/), a ragdoll cattery   (yes! seriously! I have 30+ cats!).
-- [serenique](https://www.serenique.com/), a chinese astrology platform 
  
 Coding still be a big part in my life. I code for my businesses that I partnered with.
 
