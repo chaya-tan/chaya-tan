@@ -11,6 +11,6 @@ I'm a co-founder of multiple businesses.
  
 Coding still be a big part of my life. I code for the businesses that I partnered with.
 
-I'm learning and excited about functional programming and have started using `fp-ts` and `io-ts`. Feel free to talk or share anything about this with me!
+I'm comfortable using Next.js with Prisma, Typescript, TailwindCSS. 
 
 Feel free to say hi to me on my Twitter [@kreme_q](https://twitter.com/kreme_q)!
