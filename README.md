@@ -19,6 +19,6 @@ Tools I comfortable with
 
 I have photobooth program built with Tauri. It's still working and made money for me but I'm not a big Rust user though
 
-Now I'm learning and using SvelteKit and love it!
+Now I'm learning and using SvelteKit in production and love it :)
 
 Feel free to say hi to me on my Twitter [@kreme_q](https://twitter.com/kreme_q)!
