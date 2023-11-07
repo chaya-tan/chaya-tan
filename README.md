@@ -13,4 +13,6 @@ Coding still be a big part of my life. I code for the businesses that I partnere
 
 I'm comfortable using Next.js with Prisma, Typescript, TailwindCSS. 
 
+Now I'm learning and using SvelteKit and love it!
+
 Feel free to say hi to me on my Twitter [@kreme_q](https://twitter.com/kreme_q)!
