@@ -12,10 +12,10 @@ I'm a co-founder of multiple businesses.
 Coding still be a big part of my life. I code for the businesses that I partnered with.
 
 Tools I comfortable with
-☑️ Next.js
-☑️ Prisma
-☑️ Typescript
-☑️ TailwindCSS. 
+- ✅ Next.js
+- ✅ Prisma
+- ✅ Typescript
+- ✅ TailwindCSS. 
 
 I have photobooth program built with Tauri. It's still working and made money for me but I'm not a big Rust user though
 
