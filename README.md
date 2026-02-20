@@ -1,6 +1,6 @@
 ![My talk at function programming meetup #1 in Bangkok, Thailand](https://imgur.com/tThOLuM.png "me")
 
-# Hi, I'm [Your Name] 👋 
+# Hi, I'm Kreme 👋 
 ### 🚀 Serial Entrepreneur & Full-Stack Developer
 
 I build businesses and the code that powers them. After founding and scaling multiple ventures—from hostels and nail salons to a 30+ cat cattery—I’ve pivoted to focus on my latest chapter in **Fashion** and **Metaphysics**.
